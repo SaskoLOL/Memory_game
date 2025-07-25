@@ -17,9 +17,11 @@ The tft screen is above the 16 swicthes and the rp pico is on the bottom.
 # CAD
 I made a pretty simple case to store the pcb in, the screen is completly exposed and the switches are partially covered up (ofcourse there is room for the switches just the spaces in between are covered up)
 
-<img width="722" height="672" alt="bottom_step_memory" src="https://github.com/user-attachments/assets/0967b867-2be8-437b-8cb9-772cffb9bc33" />
+<img width="584" height="722" alt="image" src="https://github.com/user-attachments/assets/8cc59a21-68f9-47cb-a8f8-42340cbb3d3e" />
 
-<img width="548" height="746" alt="fullcasememory" src="https://github.com/user-attachments/assets/4677a042-1cf1-4471-9ced-ffe9f83f3251" />
+
+<img width="626" height="374" alt="image" src="https://github.com/user-attachments/assets/8e0a9658-1748-4af0-8dd4-2da500414838" />
+
 
 As you see there are 4 holes to hold the 2 parts togerther, for that I will be using 4 M4 screws, alor 4s am I right?
 
