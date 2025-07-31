@@ -25,6 +25,11 @@ I made a pretty simple case to store the pcb in, the screen is completly exposed
 
 As you see there are 4 holes to hold the 2 parts togerther, for that I will be using 4 M4 screws, alor 4s am I right?
 
+<img width="555" height="757" alt="image" src="https://github.com/user-attachments/assets/f38852ff-de1d-4958-ba7d-51483509519e" />
+
+MOUNTING: As you see I added 3 holes for 3x 4m screws to mount the pcb to the case.
+
+
 ## Bill of Materials (BOM)
 
 | Item                | Required | Quantity | Cost  | Purchase Link |
